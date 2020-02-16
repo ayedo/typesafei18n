@@ -1,4 +1,6 @@
-import Language.*
+package ch.ayedo.i18n
+
+import ch.ayedo.i18n.Language.*
 
 object Translator {
 

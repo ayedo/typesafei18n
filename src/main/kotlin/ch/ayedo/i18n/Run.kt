@@ -1,3 +1,5 @@
+package ch.ayedo.i18n
+
 fun main() {
 
     val translator = Translator.forLanguage(Language.EN)

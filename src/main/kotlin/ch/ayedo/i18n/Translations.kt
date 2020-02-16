@@ -1,3 +1,5 @@
+package ch.ayedo.i18n
+
 object Greeting : Translatable {
     override fun getEn() = "Hello"
     override fun getDe() = "Hallo"
